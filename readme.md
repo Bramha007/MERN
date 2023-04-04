@@ -1,4 +1,1 @@
-# Natours Application
-
-Built using modern technologies: node.js, express, mongoDB, mongoose and friends 😁
-This is a site built by doing code along wtaching tutorial
+Well the repo deals with the MERN stack technology, MEANwhile I accidentaly named it MEAN.
