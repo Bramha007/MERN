@@ -3,7 +3,8 @@ import { useFetch } from "./Hooks";
 
 const Joke = () => {
     const { setup, punchline } = useFetch(
-        "http://localhost:3005/jokes/random",
+        // "http://localhost:3005/jokes/random",
+        "https://official-joke-api.appspot.com/jokes/random",
         {}
     );
     return (
